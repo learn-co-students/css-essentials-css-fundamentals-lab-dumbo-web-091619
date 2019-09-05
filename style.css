@@ -2,4 +2,38 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  background-color: white;
+}
+header{
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+nav a{
+  padding: 0 10px;
+  background-color: red;
+  color: white;
+}
+
+figcaption{
+  text-align: center;
+  font-size: smaller
+}
+
+#featured-property p{
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#details div{
+  width: 25%;
+  float: left;
+  background-color: red;
+  text-align: center;
+  color: white;
 }
